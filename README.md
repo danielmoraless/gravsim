@@ -1,0 +1,2 @@
+# Simulador de gravedad
+Este es un "simulador" simple que utiliza conceptos de la Física newtoniana y herramientas matemáticas para que hacer que "particulas" orbiten entre ellos. Estas "particulas" son en realidad cuadrados de 1px de ancho por 1px de alto.
